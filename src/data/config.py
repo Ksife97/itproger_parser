@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 @dataclass
 class Config:
-    BOT_TOKEN: str = "8209661840:AAGtDbvYCCUvRKl26_sulwlZWVgQbRXyQAA"
+    BOT_TOKEN: str = "8404360124:AAHZ9FLMVQu_hWtylLL853KX1l-NOV4aLYI"
     ITPROGER_URL: str = "https://itproger.com/news"
     ARTICLES_PER_PAGE: int = 10
 
