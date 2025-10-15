@@ -7,7 +7,7 @@ from aiogram.filters import Command
 
 async def main():
     """Основная функция запуска бота"""
-    logger.info("🤖 Бот запущен...")
+    logger.info("Бот запущен...")
     await dp.start_polling(bot)
 
 
