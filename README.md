@@ -72,6 +72,8 @@ Requests
 
 python-dotenv
 
+Python 3.9
+
 Процесс работы
 
 Запуск приложения: файл app.py инициализирует Telegram-бота.
