@@ -31,3 +31,6 @@ Telegram-бот для автоматического получения, обр
 
 # Установите зависимости
 pip install -r requirements.txt
+# Запуск
+python app.py
+
